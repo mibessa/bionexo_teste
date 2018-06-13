@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  name: MyString
+  address: MyString
+  city: MyString
+  phone: MyString
+  geocode_lat: 1.5
+  geocode_long: 1.5
+  score_size: 1
+  score_adptation_for_seniors: 1
+  score_medical_equipment: 1
+  score_medicine: 1
+
+two:
+  id: 1
+  name: MyString
+  address: MyString
+  city: MyString
+  phone: MyString
+  geocode_lat: 1.5
+  geocode_long: 1.5
+  score_size: 1
+  score_adptation_for_seniors: 1
+  score_medical_equipment: 1
+  score_medicine: 1
